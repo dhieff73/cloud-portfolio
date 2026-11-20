@@ -1,1 +1,5 @@
 Khalil Dhief — Portfolio.html
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
